@@ -10,4 +10,4 @@ This course provided a solid introduction to fundamental programming and algorit
 
 ## Implementation
 
-It's important to note that all course concepts and examples were practically implemented using Python
+It's important to note that all course concepts and examples were implemented using Python
